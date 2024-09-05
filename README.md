@@ -2,9 +2,6 @@
 Exploration for Retrieval Augmented Generation (RAG) Framework. This Repository explores my contribution to the Women in AI (WAI) Practice 2024. This project allowed learners to develop an end-to-end project within the timeframe of eight weeks. By the end of this period, a rudimentary RAG tool was working but with future improvements and extensions possible. This repository was set up in the aim of publishing further developments of this project. 
 
 The original project is accesible here: [Project Repository](https://github.com/women-in-ai-ireland/June-2024-Group-002)
-# June-2024-Group-002
-
-Welcome to the Group 002 repository for the WaiPRACTICE June 2024 cohort. This project, developed as part of the Women in AI GenAI WAIPractice 2024 initiative, features a study tool tentatively named **Study_Pal_Geo**. This tool is designed to be an effective study aid for a specific exam.
 
 ## Contents:
 1. [Premise](#pre)
