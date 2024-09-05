@@ -9,7 +9,6 @@ The original project is accesible here: [Project Repository](https://github.com/
 3. [Our Conclusion/What we have Learnt](#con)
 4. [Future Work](#fw)
 5. [References](#ref)
-6. [Contributors](#contributor)
 
 
 #### Summary of Project
